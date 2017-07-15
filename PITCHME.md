@@ -1,3 +1,3 @@
 ## PHP Abstraction
-#### 
-#### Triumphs, Pitfalls, and Everything in Between
+#### ---
+#### Triumphs, Pitfalls, and Interfaces
